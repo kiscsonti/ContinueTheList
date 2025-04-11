@@ -1,0 +1,10 @@
+SPARQLWrapper
+tqdm
+numpy
+pandas
+fuzzywuzzy
+scipy
+genism
+torch
+sentence-transformers
+openai

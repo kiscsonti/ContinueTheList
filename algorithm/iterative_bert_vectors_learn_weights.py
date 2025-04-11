@@ -8,7 +8,7 @@ import torch.optim as optim
 from tqdm.notebook import tqdm
 import matplotlib.pyplot as plt
 # from xgboost import XGBClassifier
-from torchvision import transforms
+# from torchvision import transforms
 from torch.utils.data import DataLoader, Dataset
 
 from gensim.models import KeyedVectors
